@@ -1,4 +1,3 @@
-# Operating-System
 
 # Description
 The project was a simulation of a real operating system, where OS manages resources and processes. Java was the programming language to develop this project.
@@ -12,8 +11,8 @@ The project was a simulation of a real operating system, where OS manages resour
 - A Process Control Block (PCB) for each process to store all information about a process including process ID and state.
 
 # Contributors
-<a href="https://github.com/AWahba1">Ahmed Wahba</a><br>
-<a href="https://github.com/omar-sherif9992">Omar Sherif</a><br>
-Karim Hesham <br>
-Abdelrahman Ahmed
+- <a href="https://github.com/AWahba1">Ahmed Wahba</a><br>
+- <a href="https://github.com/omar-sherif9992">Omar Sherif</a><br>
+- Karim Hesham <br>
+- Abdelrahman Ahmed
 
